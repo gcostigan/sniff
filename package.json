@@ -1,0 +1,9 @@
+{
+  "name": "sniff",
+  "version": "0.1.0",
+  "description": "Disk usage visualization tool.",
+  "main": "index.js",
+  "repository": "https://github.com/gcostigan/sniff.git",
+  "author": "Glen Costigan",
+  "license": "MIT"
+}
